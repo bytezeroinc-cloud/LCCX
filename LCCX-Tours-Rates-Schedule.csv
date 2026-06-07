@@ -1,0 +1,23 @@
+Category,Tour,Booking Type,Duration,Price (from / base),Capacity,Typical Departure,Notes
+Shark Tooth / Fossil,Morris Island Shark Tooth & Fossil,Shared (per person),4 hrs,$125 / person,up to 6,~8:00 AM,Family-friendly; keep what you find
+Shark Tooth / Fossil,Shark Tooth & Sea Shell Hunting,Private (whole boat),3 hrs,$400 (1-2) then +$50/guest,up to 12,~8:00 AM,Optional +$150 private guide
+Shark Tooth / Fossil,Shark Tooth & Sea Shell Hunting,Private (whole boat),4 hrs,$500 (1-2) then +$50/guest,up to 12,morning,Optional +$150 private guide
+Shark Tooth / Fossil,Crab Bank Island Shark Tooth,Shared (per person),2 hrs,$75 / person,small group,seasonal,Sandbar adventure
+Daily Cruise,Sunset Boat Tour,Shared (per person),2 hrs,$65 / person,up to 23,~6:00 PM,Per-seat on a public departure
+Daily Cruise,Sunset Boat Tour,Private (whole boat),2 hrs,$375 (1-4),up to 23,~6:00 PM,Tiered - see price ladder
+Daily Cruise,Dolphin Boat Tour,Private (whole boat),2 hrs,$375 (1-4),up to 23,morning / afternoon,Shem Creek; tiered
+Daily Cruise,Charleston Historic Harbor Cruise,Private (whole boat),2 hrs,$375 (1-4),up to 23,day,Tiered
+Daily Cruise,Harbor Island Hopping & Shark Tooth,Private (whole boat),2 hrs,$375 (1-4),up to 23,day,Tiered
+Party,Bachelorette Party Cruise,Private (whole boat),2 / 3 / 4 hrs,$350 / $450 / $550 (1-2),up to 23,8 AM / 11 AM,Tiered + Roamer IV to 23
+Party,Bachelor Party Cruise,Private (whole boat),2 / 3 / 4 hrs,$350 / $450 / $550 (1-2),up to 23,day,Tiered + Roamer IV to 23
+Party,Boat to Beach Cruise,Private (whole boat),3 / 4 hrs,$450 / $550 (1-2),up to 23,day,Tiered + Roamer IV to 23
+Party,Birthday Party,Private (whole boat),2 / 3 / 4 hrs,$350 / $450 / $550 (1-2),up to 12,day,Tiered
+Fishing,Inshore Fishing Charter,Private (per boat),3 / 4 hrs,$450 / $550 (1-2),up to 6 / boat,morning,+$75/angler to 6; 2nd boat for 7+
+Fishing,Shark Fishing Charter,Private (per boat),3 / 4 hrs,$450 / $550 (1-2),up to 6 / boat,morning,Multi-boat for larger groups
+Camp,Kid's Fish Camp,Group (flat rate),5 days,$1,250 (group up to 18),ages 7-13,starts 8 AM,2026 sessions: Jun 15-19 / Jul 6-11 / Jul 20-25
+Gift Cards,Gift Card,Fixed value,n/a,$100 / $200 / $300 / $400 / $500,n/a,n/a,Plus per-tour gift cards
+,,,,,,,
+NOTE,All prices are BASE,+3% card surcharge at checkout,,,,,
+NOTE,Private = whole boat for your group,Shared = per-seat on a public departure,,,,,
+NOTE,Roamer IV (larger boat) seats up to 23,used for 13-23 guest charters ($900 / $1100 / $1200),,,,,
+NOTE,Departure times are typical/seasonal,confirm the live schedule before publishing,,,,,
